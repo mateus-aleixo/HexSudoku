@@ -1,0 +1,7 @@
+.text-field {
+    -fx-alignment: center;
+}
+
+.empty {
+    -fx-background-color: red;
+}
