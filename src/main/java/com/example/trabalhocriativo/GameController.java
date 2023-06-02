@@ -100,10 +100,10 @@ public class GameController implements Initializable {
         System.out.println("\nSolução:");
         board.displayMatrix(solution);
 
-        //char[][] matrix = board.getMat();
+        char[][] matrix = board.getMat();
 
         // board de exemplo para mostrar na apresentação
-
+        /*
         char[][] matrix = {
                 {'1', '6', '0', 'A', '8', 'D', '9', '2', '5', 'E', '3', '7', 'C', 'B', '4', 'F'},
                 {'9', 'E', 'D', '8', 'B', '3', '0', '4', 'F', 'C', 'A', '2', '5', '7', '6', '1'},
@@ -122,7 +122,7 @@ public class GameController implements Initializable {
                 {'0', '8', '1', '5', 'D', '4', 'B', 'F', '9', 'A', '6', 'E', '3', '2', '7', 'C'},
                 {'C', '2', '6', '7', 'A', '8', '3', 'E', 'D', 'F', '1', 'B', '4', '0', '5', '9'}
         };
-
+        */
 
         GridPane[] subGrids = createSubGrids(matrix, size);
         mainGrid.setAlignment(Pos.CENTER);
