@@ -19,19 +19,13 @@ git clone https://github.com/mateus-aleixo/hexsudoku.git
 2. Navigate to the project directory:
 cd hexsudoku
 
-3. Install the required dependencies:
-npm install
-
 
 ## Usage
 
-1. Start the game:
-npm start
-
-2. Access the game through a web browser at `http://localhost:3000`.
-3. Register a new account or login with an existing account.
-4. Select a difficulty level and start solving HexSudoku puzzles.
-5. Use the input controls to enter hexadecimal digits (0-F) into the squares.
-6. Pause the game whenever needed, and resume when ready to continue.
-7. The game will track and display your solving time for each puzzle.
-8. Solve as many puzzles as you like and enjoy the HexSudoku experience!
+1. Start the game
+2. Register a new account or login with an existing account.
+3. Select a difficulty level and start solving HexSudoku puzzles.
+4. Use the input controls to enter hexadecimal digits (0-F) into the squares.
+5. Pause the game whenever needed, and resume when ready to continue.
+6. The game will track and display your solving time for each puzzle.
+7. Solve as many puzzles as you like and enjoy the HexSudoku experience!
