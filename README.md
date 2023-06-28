@@ -14,10 +14,10 @@ HexSudoku Game is a variation of the popular Sudoku game that uses hexadecimal n
 ## Installation
 
 1. Clone the repository:
-```git clone https://github.com/mateus-aleixo/hexsudoku.git```
+```git clone https://github.com/mateus-aleixo/hex-sudoku.git```
 
 2. Navigate to the project directory:
-```cd hexsudoku```
+```cd hex-sudoku```
 
 
 ## Usage
